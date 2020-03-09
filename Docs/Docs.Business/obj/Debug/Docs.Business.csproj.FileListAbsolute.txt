@@ -1,0 +1,16 @@
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Business.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Business.pdb
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Entities.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Repositories.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Entities.pdb
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Docs.Repositories.pdb
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\obj\Debug\Docs.Business.csprojAssemblyReference.cache
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\obj\Debug\Docs.Business.csproj.CopyComplete
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\obj\Debug\Docs.Business.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\obj\Debug\Docs.Business.pdb
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\MySql.Data.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Google.Protobuf.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\BouncyCastle.Crypto.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Ubiety.Dns.Core.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\Renci.SshNet.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Business\bin\Debug\MySql.Data.xml

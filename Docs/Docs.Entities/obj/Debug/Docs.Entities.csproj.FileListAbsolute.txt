@@ -1,0 +1,5 @@
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Entities\bin\Debug\Docs.Entities.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Entities\bin\Debug\Docs.Entities.pdb
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Entities\obj\Debug\Docs.Entities.csprojAssemblyReference.cache
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Entities\obj\Debug\Docs.Entities.dll
+G:\Projetos\TestePraticoFelipeSouza\Docs\Docs.Entities\obj\Debug\Docs.Entities.pdb

@@ -1,0 +1,117 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Documento</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <div class="row">
+
+        <div class="col-md-4 ">
+            <label>Código do Documento</label>
+            <input type="text" id="txtCodigo" class="form-control" />
+            <span id="mensagemcodigo" class="text-danger"></span>
+
+            <br />
+
+            <label>Título do Documento</label>
+            <input type="text" id="txtTitulo" class="form-control" />
+            <span id="mensagemtitulo" class="text-danger"></span>
+
+            <br />
+        </div>
+
+        <div class="col-md-4 ">
+            <label>Revisão do Documento</label>
+            <select id="sltRevisao" class="form-control">
+                <option value="0">0</option>
+                <option value="1">A</option>
+                <option value="2">B</option>
+                <option value="3">C</option>
+                <option value="4">D</option>
+                <option value="5">E</option>
+                <option value="6">F</option>
+                <option value="7">G</option>
+            </select>
+            <span id="mensagemrevisao" class="text-danger"></span>
+
+            <br />
+
+            <label>Data planejada do Documento</label>
+            <input type="date" id="txtData" class="form-control" />
+            <span id="mensagemdata" class="text-danger"></span>
+
+            <br />
+        </div>
+
+        <div class="col-md-4 ">
+            <label>Valor do Documento</label>
+            <input type="text" id="txtValor" class="form-control" />
+            <span id="mensagemvalor" class="text-danger"></span>
+
+            <br />
+
+            <label>Arquivo</label>
+            <input type="file" id="txtArquivo" />
+            <span id="mensagemarquivo" class="text-danger"></span>
+
+            <br />
+        </div>
+    </div>
+
+    <br />
+    <div class="row">
+        <div class="col-md-4 ">
+            <button class="btn btn-success" id="btncadastrar">Cadastrar</button>
+        </div>
+    </div>
+    <br />
+
+    <div class="row">
+        <div class="col-md-4">
+            <span id="mensagem" class="text-danger"></span>
+        </div>
+    </div>
+
+    <br />
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Código</th>
+                        <th>Título</th>
+                        <th>Revisão</th>
+                        <th>Data planejada</th>
+                        <th>Valor</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="6">Quantidade de registros: <span id="quantidade"></span></td>
+                    </tr>
+                </tfoot>
+            </table>
+
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false"></div>
+
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/index.min.js"></script>
+</body>
+</html>
